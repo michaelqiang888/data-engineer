@@ -1,0 +1,34 @@
+- install community editions and toos
+https://dev.mysql.com/downloads/installer/
+
+============================================================
+Installs the MySQL Server and the tools required for MySQL application development. This is useful if you intend to develop applications for an existing server.
+
+This Setup Type includes:
+
+* MySQL Server
+
+* MySQL Shell
+The new MySQL client application to manage MySQL Servers and InnoDB cluster instances.
+
+* MySQL Router
+High availability router daemon for InnoDB cluster setups to be installed on application nodes.
+
+* MySQL Workbench
+The GUI application to develop for and manage the server.
+
+* MySQL for Excel
+Excel plug-in to easily access and manipulate MySQL data.
+
+* MySQL for Visual Studio
+To work with the MySQL Server from VS.
+
+* MySQL Connectors
+Connector/Net, Java, C/C++, OBDC and others.
+
+* Examples and tutorials
+To help you get started with your development.
+
+* Documentation
+Allows you to read the documentation offline.
+=======================================================
